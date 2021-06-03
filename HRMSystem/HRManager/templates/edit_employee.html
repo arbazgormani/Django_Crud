@@ -50,6 +50,7 @@ $(document).ready(function(){
 					</div>
 				</div>
 			</div>
+            <a href='/'>Back to home</a>
 
             <div id="addEmployeeModal">
                 <div>
@@ -74,9 +75,11 @@ $(document).ready(function(){
                                     <input name='cnic' type="text" class="form-control" value="{{ employee.cnic }}">
                                 </div>
                                 <div class="form-group">
-                                    <select name="department" id="id_department">
+                                    <label>Department</label>
+                                    <select class="form-control form-control-sm" style="width:auto;" name="department">
                                         {% for department in departments %}
-                                            <option value="{{ department.department_id }}">{{ department.name }}</option>
+                                        <option value="{{ department.department_id }}">{{ department.name }}
+                                        </option>
                                         {% endfor %}
                                     </select>
                                 </div>
