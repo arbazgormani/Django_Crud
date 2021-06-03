@@ -1,6 +1,5 @@
-# Django_Crud
+# Django Crud APP
 <h5>Please follow the steps to run the code.</h5>
-# Django Crud App
 
 It is the sample django app for CRUD operations for Human Resource Management system
 
