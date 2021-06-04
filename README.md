@@ -18,4 +18,9 @@ Please follow these steps to run the application.
 Done
 
 Following are the screenshots of projects.
-![](screenshots/1.png)
+1) ![](screenshots/1.png)
+2) ![](screenshots/6.png)
+3) ![](screenshots/2.png)
+4) ![](screenshots/3.png)
+5) ![](screenshots/4.png)
+6) ![](screenshots/5.png)
