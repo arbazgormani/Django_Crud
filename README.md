@@ -16,3 +16,6 @@ Please follow these steps to run the application.
 5) Enter command "python3 manage.py runserver" 
 
 Done
+
+Following are the screenshots of projects.
+![](screenshots/1.png)
